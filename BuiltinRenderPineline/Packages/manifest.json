@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "jp.keijiro.klak.ndi": "file:../../jp.keijiro.klak.ndi",
+    "org.nuget.system.memory": "4.5.3",
+    "com.unity.modules.androidjni": "1.0.0",
+    "com.unity.modules.physics": "1.0.0"
+  },
+  "scopedRegistries": [
+    {
+      "name": "Unity NuGet",
+      "url": "https://unitynuget-registry.azurewebsites.net",
+      "scopes": [
+        "org.nuget"
+      ]
+    }
+  ]
+}
